@@ -1,0 +1,8 @@
+../Core/Src/displayLightTraffic.c:12:6:drawAllGray	32	static
+../Core/Src/displayLightTraffic.c:26:6:drawRedGreen	32	static
+../Core/Src/displayLightTraffic.c:40:6:drawRedYellow	32	static
+../Core/Src/displayLightTraffic.c:54:6:drawGreenRed	32	static
+../Core/Src/displayLightTraffic.c:68:6:drawYellowRed	32	static
+../Core/Src/displayLightTraffic.c:82:6:drawRedGreenToggle	16	static
+../Core/Src/displayLightTraffic.c:91:6:drawYellowRedToggle	16	static
+../Core/Src/displayLightTraffic.c:100:6:drawGreenRedToggle	16	static
